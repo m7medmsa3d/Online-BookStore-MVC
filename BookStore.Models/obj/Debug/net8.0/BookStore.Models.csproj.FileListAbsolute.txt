@@ -1,0 +1,13 @@
+F:\Eng-Mohamed Saad\C#\Book Store\BookStore.Models\bin\Debug\net8.0\BookStore.Models.deps.json
+F:\Eng-Mohamed Saad\C#\Book Store\BookStore.Models\bin\Debug\net8.0\BookStore.Models.dll
+F:\Eng-Mohamed Saad\C#\Book Store\BookStore.Models\bin\Debug\net8.0\BookStore.Models.pdb
+F:\Eng-Mohamed Saad\C#\Book Store\BookStore.Models\obj\Debug\net8.0\BookStore.Models.csproj.AssemblyReference.cache
+F:\Eng-Mohamed Saad\C#\Book Store\BookStore.Models\obj\Debug\net8.0\BookStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\Eng-Mohamed Saad\C#\Book Store\BookStore.Models\obj\Debug\net8.0\BookStore.Models.AssemblyInfoInputs.cache
+F:\Eng-Mohamed Saad\C#\Book Store\BookStore.Models\obj\Debug\net8.0\BookStore.Models.AssemblyInfo.cs
+F:\Eng-Mohamed Saad\C#\Book Store\BookStore.Models\obj\Debug\net8.0\BookStore.Models.csproj.CoreCompileInputs.cache
+F:\Eng-Mohamed Saad\C#\Book Store\BookStore.Models\obj\Debug\net8.0\BookStore.Models.dll
+F:\Eng-Mohamed Saad\C#\Book Store\BookStore.Models\obj\Debug\net8.0\refint\BookStore.Models.dll
+F:\Eng-Mohamed Saad\C#\Book Store\BookStore.Models\obj\Debug\net8.0\BookStore.Models.pdb
+F:\Eng-Mohamed Saad\C#\Book Store\BookStore.Models\obj\Debug\net8.0\ref\BookStore.Models.dll
+F:\Eng-Mohamed Saad\C#\Book Store\BookStore.Models\obj\Debug\net8.0\BookStore.Models.sourcelink.json

@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "nwpQ9NONjSOp+WeW5V8DO7s0dhR3btnj4gy/c7V+JvgaBuMEraOOnRNerAWNIv+TYGt0MOLtBCrCg+0RA9vSrA==",
+  "success": true,
+  "projectFilePath": "F:\\Eng-Mohamed Saad\\C#\\Book Store\\BookStore.Utility\\BookStore.Utility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohamed Saad\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.10\\microsoft.aspnetcore.cryptography.internal.8.0.10.nupkg.sha512",
+    "C:\\Users\\Mohamed Saad\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.10\\microsoft.aspnetcore.cryptography.keyderivation.8.0.10.nupkg.sha512",
+    "C:\\Users\\Mohamed Saad\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.10\\microsoft.aspnetcore.identity.ui.8.0.10.nupkg.sha512",
+    "C:\\Users\\Mohamed Saad\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Mohamed Saad\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.1\\microsoft.extensions.dependencyinjection.8.0.1.nupkg.sha512",
+    "C:\\Users\\Mohamed Saad\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Mohamed Saad\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\8.0.0\\microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Mohamed Saad\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\8.0.10\\microsoft.extensions.fileproviders.embedded.8.0.10.nupkg.sha512",
+    "C:\\Users\\Mohamed Saad\\.nuget\\packages\\microsoft.extensions.identity.core\\8.0.10\\microsoft.extensions.identity.core.8.0.10.nupkg.sha512",
+    "C:\\Users\\Mohamed Saad\\.nuget\\packages\\microsoft.extensions.identity.stores\\8.0.10\\microsoft.extensions.identity.stores.8.0.10.nupkg.sha512",
+    "C:\\Users\\Mohamed Saad\\.nuget\\packages\\microsoft.extensions.logging\\8.0.1\\microsoft.extensions.logging.8.0.1.nupkg.sha512",
+    "C:\\Users\\Mohamed Saad\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Mohamed Saad\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\Mohamed Saad\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\Mohamed Saad\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Mohamed Saad\\.nuget\\packages\\sendgrid\\9.29.3\\sendgrid.9.29.3.nupkg.sha512",
+    "C:\\Users\\Mohamed Saad\\.nuget\\packages\\starkbank-ecdsa\\1.3.3\\starkbank-ecdsa.1.3.3.nupkg.sha512",
+    "C:\\Users\\Mohamed Saad\\.nuget\\packages\\stripe.net\\47.0.0\\stripe.net.47.0.0.nupkg.sha512",
+    "C:\\Users\\Mohamed Saad\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\Mohamed Saad\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\Mohamed Saad\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

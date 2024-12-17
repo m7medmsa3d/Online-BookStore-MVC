@@ -1,0 +1,12 @@
+F:\Eng-Mohamed Saad\C#\Book Store\BookStore.Utility\bin\Debug\net8.0\BookStore.Utility.deps.json
+F:\Eng-Mohamed Saad\C#\Book Store\BookStore.Utility\bin\Debug\net8.0\BookStore.Utility.dll
+F:\Eng-Mohamed Saad\C#\Book Store\BookStore.Utility\bin\Debug\net8.0\BookStore.Utility.pdb
+F:\Eng-Mohamed Saad\C#\Book Store\BookStore.Utility\obj\Debug\net8.0\BookStore.Utility.GeneratedMSBuildEditorConfig.editorconfig
+F:\Eng-Mohamed Saad\C#\Book Store\BookStore.Utility\obj\Debug\net8.0\BookStore.Utility.AssemblyInfoInputs.cache
+F:\Eng-Mohamed Saad\C#\Book Store\BookStore.Utility\obj\Debug\net8.0\BookStore.Utility.AssemblyInfo.cs
+F:\Eng-Mohamed Saad\C#\Book Store\BookStore.Utility\obj\Debug\net8.0\BookStore.Utility.csproj.CoreCompileInputs.cache
+F:\Eng-Mohamed Saad\C#\Book Store\BookStore.Utility\obj\Debug\net8.0\BookStore.Utility.dll
+F:\Eng-Mohamed Saad\C#\Book Store\BookStore.Utility\obj\Debug\net8.0\refint\BookStore.Utility.dll
+F:\Eng-Mohamed Saad\C#\Book Store\BookStore.Utility\obj\Debug\net8.0\BookStore.Utility.pdb
+F:\Eng-Mohamed Saad\C#\Book Store\BookStore.Utility\obj\Debug\net8.0\ref\BookStore.Utility.dll
+F:\Eng-Mohamed Saad\C#\Book Store\BookStore.Utility\obj\Debug\net8.0\BookStore.Utility.csproj.AssemblyReference.cache
